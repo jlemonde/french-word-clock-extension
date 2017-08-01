@@ -27,7 +27,7 @@ as the time:
 
 Clone the repository:
 
-    $ git clone https://github.com/jlemonde/french-word-clock-extension/tree/french-fork
+    $ git clone https://github.com/jlemonde/french-word-clock-extension.git
     $ cd french-word-clock-extension
 
 And type:
