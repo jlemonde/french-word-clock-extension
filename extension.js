@@ -100,10 +100,10 @@ const NOMBRES_FEMININ = [
 ];
 
 const MOTS = {
-   pres_de        : 'presque $',
+   pres_de        : '$ sous peu',
    passees        : '$ passées',
    passee         : '$ passée',
-   passe          : 'passé $'
+   passe          : '$ passé'
 };
 
 function donnerLHeure(h, m){
